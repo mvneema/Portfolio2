@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome!! on Neema MV</title>
+    <link>https://mvneema.github.io/DataSciencePortfolio-Neema/</link>
+    <description>Recent content in Welcome!! on Neema MV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 11:01:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://mvneema.github.io/DataSciencePortfolio-Neema/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 10: The Street View House Numbers: Neural Networks Project</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-10/</link>
+      <pubDate>Sat, 15 May 2021 11:01:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-10/</guid>
+      <description>Objective: The objective of the project is to learn how to implement a simple image classification pipeline based on a deep neural network.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 9: ANZ Data Virtual Internship</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-9/</link>
+      <pubDate>Sat, 15 May 2021 11:01:58 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-9/</guid>
+      <description>Objective: ANZ Data Virtual Experience
+Task 1: Segment the dataset by transaction date and time. Visualise transaction volume and spending over the course of an average day or week. Consider the effect of any outliers that may distort your analysis.
+Task 2: Build a simple regression model to predict the annual salary for each customer using the attributes
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: KPMG Virtual - Data Analytics Internship</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-8/</link>
+      <pubDate>Sat, 15 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-8/</guid>
+      <description>Objective: A Virtual Internship project to perform below tasks:
+Module Task 1: To take a look at the following datasets provided by the Sprocket Central Pty Ltd and identity all data quality issues. Once you&amp;rsquo; ve had a look at these datasets, draft san email to the client identifying all data quality issues.
+Module Task 2: Create a Power Point presentation which outlines the approach we will be taking to identity which of 1000 customers Sprocket Central Pty Ltd should target, based on on this data sets.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Amazon Product Recommender System</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-7/</link>
+      <pubDate>Wed, 15 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-7/</guid>
+      <description>Objective: A Recommendation system to recommend products to customers based on the their previous ratings for other products. Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Silhouette Classifier</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-6/</link>
+      <pubDate>Tue, 14 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-6/</guid>
+      <description>Context: The purpose is to classify a given silhouette as one of three types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles. Principle Component Analysis is used for this approach.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Concrete performance model tuner</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-5/</link>
+      <pubDate>Mon, 13 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-5/</guid>
+      <description>Context: Concrete is the most important material in civil engineering. The concrete compressive strength is a highly nonlinear function of age and ingredients. These ingredients include cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, and fine aggregate. Modeling of strength of high performance concrete using Machine Learning techniques like hyperparameter tuning. Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Deposit Subscription Classifier</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-4/</link>
+      <pubDate>Sun, 12 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-4/</guid>
+      <description>Objective: The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+Context: Leveraging customer information is paramount for most businesses. In the case of a bank, attributes of customers like (age,job,marital,education, average yearly balance,etc.) can be crucial in strategizing a marketing campaign when launching a new product.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Personal Loan</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-3/</guid>
+      <description>Context: This case is about a bank (Thera Bank) whose management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a healthy conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Insurance leverage customers</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-2/</guid>
+      <description>Context: Leveraging customer information is paramount for most businesses. In the case of an insurance company, attributes of customers like (age,sex,bmi,children,smoker,region,charges)can be crucial in making business decisions. Hence, knowing to explore and generate value out of such data can be an invaluable skill to have.   Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Game Behavior Analysis</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-1/</guid>
+      <description>In this study, we aim to study whether it is possible to predict a specific game behavior in a Role Play Game, Fallout 3, based on players’ real world characteristics (e.g. personality trait scores, game expertise and gender information). Precise and correct prediction of in-game actions will, for example, help game designers provide more customized and dynamic contents to players.
+Link to Githbub repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/neema-madayi-veetil   Medium: https://medium.com/@mvneema10   Github: https://github.com/mvneema   Twitter: https://twitter.com/NeemaMV    </description>
+    </item>
+    
+  </channel>
+</rss>
